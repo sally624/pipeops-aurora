@@ -1,1 +1,1 @@
-FROM ghcr.io/q5vsjv/trivette:latest
+FROM ghcr.io/q5vsjv/hearst:latest

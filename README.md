@@ -1,2 +1,1 @@
 # pipeops-aurora
-pipeops-aurora

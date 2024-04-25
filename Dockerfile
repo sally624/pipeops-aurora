@@ -1,1 +1,1 @@
-FROM ghcr.io/sally624/wormer:latest
+FROM ghcr.io/q5vsjv/trivette:latest
